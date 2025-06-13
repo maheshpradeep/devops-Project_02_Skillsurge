@@ -1,0 +1,144 @@
+/* About Us Page Styles */
+
+/* Main sections */
+.welcome {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f5f8fa;
+  border-bottom: 1px solid #e1e8ed;
+}
+
+.welcome h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+.welcome p {
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  color: #7f8c8d;
+}
+
+/* Container for sections */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Our Story Section */
+.our-story {
+  padding: 60px 0;
+  background-color: #fff;
+}
+
+.our-story h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 40px;
+  color: #2c3e50;
+}
+
+.story-content {
+  /* Modified to center content since image is removed */
+  display: block;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Removed story-image styles */
+
+.story-text p {
+  margin-bottom: 20px;
+  line-height: 1.6;
+  color: #34495e;
+  text-align: justify;
+}
+
+/* Under Development Banner - Match services.php approach */
+.development-banner {
+  background-color: #ffeaa7;
+  padding: 20px 0;
+  margin: 0;
+  border-top: 3px solid #fdcb6e;
+  width: 100%;
+  clear: both;
+  overflow: hidden; /* Prevent any possible overflow issues */
+  display: block;
+  position: static;
+  box-sizing: border-box;
+}
+
+.banner-content {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.banner-content i {
+  font-size: 2rem;
+  color: #e17055;
+  margin-bottom: 15px;
+  display: inline-block;
+}
+
+.banner-content h3 {
+  font-size: 1.5rem;
+  color: #d63031;
+  margin-bottom: 10px;
+}
+
+.banner-content p {
+  color: #636e72;
+  font-size: 1rem;
+}
+
+/* Structure styles */
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: block;
+  min-height: 100vh;
+}
+
+main {
+  display: block;
+  width: 100%;
+  min-height: 70vh;
+}
+
+footer {
+  display: block;
+  width: 100%;
+  padding: 20px 0;
+  margin-top: 0;
+  position: relative;
+}
+
+/* Responsive Design */
+@media (max-width: 900px) {
+  .story-content {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 600px) {
+  .welcome h1 {
+    font-size: 2rem;
+  }
+  
+  .welcome p {
+    font-size: 1rem;
+  }
+  
+  .our-story h2 {
+    font-size: 1.8rem;
+  }
+}
