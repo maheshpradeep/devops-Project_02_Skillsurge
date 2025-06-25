@@ -12,7 +12,6 @@ My focus was not just on building the app, but learning the **end-to-end DevOps 
 ✅ Learn how to containerize it using Docker  
 ✅ Deploy it on a live AWS EC2 server  
 ✅ Implement a reverse proxy using nginx  
-✅ Prepare for CI/CD and cloud service integrations
 
 ---
 
@@ -26,8 +25,6 @@ My focus was not just on building the app, but learning the **end-to-end DevOps 
 | Deployment     | Manual (via SSH) |
 | Reverse Proxy  | nginx (outside Docker) |
 | Orchestration  | docker-compose |
-| In Progress    | CI/CD with GitHub Actions, ECR, Ansible |
-
 ---
 
 ## 📚 Phase-by-Phase DevOps Journey
