@@ -84,7 +84,7 @@ My focus was not just on building the app, but learning the **end-to-end DevOps 
 
 ## 🌐 Live URL
 
-`http://51.21.221.29/(#)` 
+👉 [http://51.21.221.29/](http://51.21.221.29/)
 
 ---
 
