@@ -82,20 +82,9 @@ My focus was not just on building the app, but learning the **end-to-end DevOps 
 
 ---
 
-## 🔜 Coming Next – Phase 4+
+## 🌐 Live URL
 
-| Task | Description |
-|------|-------------|
-| 🛠️ CI/CD Pipeline | Automate deployments via GitHub Actions |
-| 📦 AWS ECR        | Store Docker images in AWS ECR |
-| 🤖 Ansible        | Automate EC2 provisioning and nginx config |
-| 🗂️ Secrets Mgmt   | Use `.env` + GitHub Secrets securely |
-
----
-
-## 🌐 Live URL (if applicable)
-
-`http://51.21.221.29/` 
+`http://51.21.221.29/(#)` 
 
 ---
 
